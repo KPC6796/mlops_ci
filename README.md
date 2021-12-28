@@ -53,7 +53,7 @@ git add .
 
 git commit -m "trying QDA"
 
-git push
+git push --set-upstream origin experiment_1
 
 
 
