@@ -35,7 +35,25 @@ Create .github/workflows/train.yaml
 
 Copy the template from cml github site
 
+Add necessary parts in the run part of the train.yaml file
 
+git add .
+
+git commit -m "make CML workflow"
+
+git push
+
+Create another branch:
+git checkout -b experiment_1
+
+Make some changes in the train.py file:
+ln3 and 31 changes are made.
+
+git add .
+
+git commit -m "trying QDA"
+
+git push
 
 
 
